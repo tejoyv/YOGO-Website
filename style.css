@@ -143,3 +143,43 @@
 .active-service p{
 	color: #fff !important;
 }
+
+
+/*feature*/
+
+.feature {
+	margin: 200px 0;
+}
+
+.feature img{
+	max-width: 84%;
+	cursor: pointer;
+	height: 450px;
+}
+
+.feature h2{
+	margin-top: 100px;
+	font-weight: bold;
+	line-height: 50px;
+}
+
+.feature p{
+	margin-top: 25px;
+	margin-bottom: 50px;
+	color:#808080;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.feature a {
+	padding: 15px 10px;
+	display: block;
+	width:170px;
+	background-color: #6900d1;
+	color: #fff !important;
+	text-decoration: none !important;
+	border-radius: 5px;
+	box-shadow: 0 9px 9px 1px rgba(204,204,204,0.5); 
+	text-align: center;
+	font-weight: bold;
+}
