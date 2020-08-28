@@ -68,3 +68,12 @@
 	font-size: 14px;
 	width: 150px;
 }
+
+.banner a:hover{
+	color: #fff;
+}
+
+.express-btn{
+	background-color:#fff !important;
+	color: #000 !important;
+}
